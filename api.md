@@ -137,7 +137,7 @@ Common status codes: `401` (missing/invalid/expired token), `403` (valid token, 
 
 | Method & path | Description |
 |---|---|
-| `GET /health` | Liveness/readiness — Postgres, Redis, data-ingest freshness, model freshness. |
+| `GET /health` | Service health, including how fresh the data and models are. |
 
 ## Example: full flow with an API key
 
