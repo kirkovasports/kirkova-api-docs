@@ -1,5 +1,7 @@
 # Kirkova API Docs
 
+<p align="center"><img src="docs/media/api-docs.webp" alt="Kirkova API: try a public endpoint, get a key, call the API" width="900"></p>
+
 Public documentation for the Kirkova Sports API (`https://kirkova.cc/v1`).
 
 - [`api.md`](api.md): the full reference: authentication, public endpoints, scopes and responses.
